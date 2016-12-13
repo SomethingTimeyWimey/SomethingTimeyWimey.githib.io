@@ -1,0 +1,14 @@
+[INTRODUCTION]
+
+Hello, my name is Vishwas Malhotra, and my project is Activehouse.
+
+[SHOW PROJECT HARDWARE]
+
+This project uses a arduino sensors to give the user data about their 
+house. the data entails humidity, gas levels, temperature,
+water usage, and light usage.
+
+[DISPLAY DATA]
+
+As you can see the sensors gather the data, and with our app you will be able 
+to keep track and view a statistical analysis of this data.
